@@ -1,0 +1,22 @@
+{
+  "name": "inaire-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuboryoya/INAIRE-CLI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuboryoya/INAIRE-CLI/issues"
+  },
+  "homepage": "https://github.com/kuboryoya/INAIRE-CLI#readme",
+  "bin": {
+    "inaire": "./bin/index.js"
+  }
+}
